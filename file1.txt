@@ -2,10 +2,10 @@ First file
 creation
 line1 - debug branch mod
 line2 - debug second mod
-line3
+line3 - Master change
 line4
 line5 - debug branch mod
 line6
 line7
-line8
+line8 - Master change
 line9 - debug branch mod
